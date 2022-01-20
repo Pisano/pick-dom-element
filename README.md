@@ -15,7 +15,10 @@ Create an instance of the `ElementPicker` class, and call its `start()` method t
 ```javascript
 import { ElementPicker } from "pick-dom-element";
 
-const picker = new ElementPicker();
+const picker = new ElementPicker({
+    background: "rgba(153, 235, 255, 0.5)",
+    borderColor: "yellow"
+});
 picker.start({
   onHover: (el) => console.log(`Hover: ${el}`),
   onClick: (el) => {

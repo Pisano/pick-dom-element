@@ -1,11 +1,11 @@
 {
-  "name": "pick-dom-element",
+  "name": "@pisano/pick-dom-element",
   "version": "0.2.1",
   "description": "Interactively pick elements in the DOM",
   "author": "Harry Marr",
   "license": "MIT",
-  "homepage": "https://github.com/hmarr/pick-dom-element",
-  "repository": "github:hmarr/pick-dom-element",
+  "homepage": "https://github.com/Pisano/pick-dom-element",
+  "repository": "github:Pisano/pick-dom-element",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
