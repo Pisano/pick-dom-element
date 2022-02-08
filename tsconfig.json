@@ -2,7 +2,7 @@
   "compilerOptions": {
     "strict": true,
     "noImplicitAny": true,
-    "target": "es2016",
+    "target": "es5",
     "sourceMap": false,
     "module": "ES6",
     "declaration": true,
